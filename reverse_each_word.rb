@@ -1,2 +1,4 @@
 Arsenal = "Europe"
-Arenal.reverse 
+Arenal.reverse! 
+puts Arsenal 
+end
