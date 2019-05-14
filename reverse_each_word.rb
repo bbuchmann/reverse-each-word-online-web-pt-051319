@@ -1,1 +1,2 @@
 Arsenal = "Europe"
+Arenal.reverse 
